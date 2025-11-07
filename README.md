@@ -67,7 +67,7 @@ Real-time parking finder using MERN + Google Maps API.
 
 ## 🌐 Connect With Me
 <p>
-  <a href="https://www.linkedin.com/in/aniket-ekshinge" target="_blank">
+  <a href="https://www.linkedin.com/in/aniket-ekshinge4" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
