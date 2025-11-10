@@ -44,11 +44,6 @@
 
 ## ⚡ Live GitHub “Moments”
 
-<!-- Trophy wall (dynamic achievements) -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aniket-ekshinge&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
-</p>
-
 <!-- Streak + Stats -->
 <p align="center">
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=aniket-ekshinge&theme=radical" />
