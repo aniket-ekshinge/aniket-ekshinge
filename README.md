@@ -46,7 +46,7 @@
 
 <!-- Streak + Stats -->
 <p align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=aniket-ekshinge&theme=radical" />
+  <img width="51%" src="https://github-readme-streak-stats.herokuapp.com?user=aniket-ekshinge&theme=radical" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aniket-ekshinge&show_icons=true&rank_icon=github&theme=radical" />
 </p>
 
